@@ -29,9 +29,9 @@ O projeto também utiliza paleta de cores personalizada e tema global.
 
 ## Telas do App
 
-![Splash](assets/print1.png)
-![Home](assets/print1.png)
-![Menu](assets/print1.png)
+<img src="assets/print1.png" width="250">
+<img src="assets/print2.png" width="250">
+<img src="assets/print3.png" width="250">
 
 ---
 
