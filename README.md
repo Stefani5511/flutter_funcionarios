@@ -1,5 +1,3 @@
-# flutter_funcionarios
-
 # Funcionários
 
 Exemplo de um app Flutter que carrega dados de um arquivo JSON local, exibindo uma lista de funcionários com foto, cargo e salário.
@@ -26,6 +24,16 @@ O projeto também utiliza paleta de cores personalizada e tema global.
 * Menu dropdown: `DropdownButton`
 * Botões: `ElevatedButton`
 * Navegação entre telas: `Navigator`
+
+---
+
+## Telas do App
+
+<p align="center">
+  <img src="assets/print1.png" width="250"/>
+  <img src="assets/print2.png" width="250"/>
+  <img src="assets/print3.png" width="250"/>
+</p>
 
 ---
 
