@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Mariana Souza",
+    "cargo": "Atendente",
+    "salario": 1850.50,
+    "dataContratacao": "2022-03-15",
+    "avatar": "https://png.pngtree.com/png-vector/20220119/ourlarge/pngtree-customer-service-icon-png-image_4231136.png"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Pereira",
+    "cargo": "Lavador",
+    "salario": 2100.00,
+    "dataContratacao": "2021-11-02",
+    "avatar": "https://cdn-icons-png.flaticon.com/256/3781/3781986.png"
+  },
+  {
+    "id": 3,
+    "nome": "Fernanda Lima",
+    "cargo": "Passadeira",
+    "salario": 1950.75,
+    "dataContratacao": "2023-01-20",
+    "avatar": "https://static.vecteezy.com/system/resources/previews/071/938/683/non_2x/avatar-profile-picture-female-vector.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "João Batista",
+    "cargo": "Gerente",
+    "salario": 3500.00,
+    "dataContratacao": "2020-08-10",
+    "avatar": "https://png.pngtree.com/png-clipart/20231216/original/pngtree-vector-office-worker-staff-avatar-employee-icon-png-image_13863941.png"
+  },
+  {
+    "id": 5,
+    "nome": "Aline Rocha",
+    "cargo": "Gerente",
+    "salario": 1700.00,
+    "dataContratacao": "2024-02-05",
+    "avatar": "https://static.vecteezy.com/ti/vetor-gratis/p1/46409840-avatar-perfil-icone-dentro-plano-estilo-femea-do-utilizador-perfil-ilustracao-em-isolado-fundo-mulheres-perfil-placa-o-negocio-conceito-vetor.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Ricardo Alves",
+    "cargo": "Motorista",
+    "salario": 2200.30,
+    "dataContratacao": "2022-07-18",
+    "avatar": "https://img.freepik.com/vetores-premium/icone-de-maquete-de-personagem-de-homem-redondo-modelo-de-personagem-de-cor-plana-em-um-icone-redondo-de-jaqueta-de-uma-jaqueta-de-homem-e-icone-vetorial-de-cabelo-escuro_774778-2396.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Patrícia Gomes",
+    "cargo": "Atendente",
+    "salario": 1820.00,
+    "dataContratacao": "2023-06-12",
+    "avatar": "https://i.pinimg.com/564x/54/8a/65/548a659c2b06a877516d3c998f5b0939.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Eduardo Martins",
+    "cargo": "Técnico de Manutenção",
+    "salario": 2800.90,
+    "dataContratacao": "2021-04-25",
+    "avatar": "https://st3.depositphotos.com/2419757/14082/v/450/depositphotos_140826682-stock-illustration-young-man-private-avatar-icon.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Juliana Freitas",
+    "cargo": "Passadeira",
+    "salario": 2000.00,
+    "dataContratacao": "2022-09-30",
+    "avatar": "https://as1.ftcdn.net/jpg/04/02/27/22/1000_F_402272249_4sGcMQdpo4SL8JGG9q1Ep3PvVuIoOvOJ.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Ribeiro",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1750.60,
+    "dataContratacao": "2024-05-14",
+    "avatar": "https://img.freepik.com/vetores-premium/vetor-de-um-homem-profissional-vestindo-terno-e-gravata-em-uma-ilustracao-de-avatar_176841-1000.jpg"
+  }
+]
